@@ -1,16 +1,13 @@
-### Hi there 👋
+###<h2> Hi! I'm Ignacio García 👋</h2>
 
-<!--
-**ilqcho/ilqcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>I'm  a programmer on beta testing!</h4>
 
-Here are some ideas to get you started:
+Hi! My name is Ignacio and I've been learning programation since Aug 2020. During this quarantine I had the opportunity to focus on development and i've enjoyed it a lot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a very curious person :mag_right:, so if I don´t know something I will find out how to do it and I think that's why programming has been a perfect fit for me.
+
+Also, :mortar_board: I am finishing my bachelor's degree on History :mortar_board: and previously was working as a Community Manager at an online clothing bussines.
+
+:trumpet:I just graduated with a diploma on FullStack web development with React.js at UTN.ba and I'm happy to enter the market as a web or software dev!
+
+In my spare time I like watchin movies, cooking, gaming and reading books.
