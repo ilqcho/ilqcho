@@ -1,4 +1,4 @@
-###<h2> Hi! I'm Ignacio García 👋</h2>
+<h2> Hi! I'm Ignacio García 👋</h2>
 
 <h4>I'm  a programmer on beta testing!</h4>
 
@@ -11,3 +11,5 @@ Also, :mortar_board: I am finishing my bachelor's degree on History :mortar_boar
 :trumpet:I just graduated with a diploma on FullStack web development with React.js at UTN.ba and I'm happy to enter the market as a web or software dev!
 
 In my spare time I like watchin movies, cooking, gaming and reading books.
+
+
