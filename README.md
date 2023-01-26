@@ -8,6 +8,6 @@ Hi! My name is Ignacio and I've been learning programation since Aug 2019. Durin
 
 I'm a very curious person :mag_right:, so if I don´t know something I will find out how to do it and I think that's why programming has been a perfect fit for me.
 
-Also, :mortar_board: I have a bachelor's degree on History :mortar_board:, yes I am one of those history geeks. 
+Also, I have a bachelor's degree on History :mortar_board:, yes I am one of those history geeks. 
 
 In my spare time I like playing the guitar, going out with friends, gaming and reading books.
