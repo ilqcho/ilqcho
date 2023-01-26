@@ -1,6 +1,6 @@
 <h2>I'm Ignacio García 👋</h2>
 
-<h4>Full-Stack/Front-End developer!</h4>
+<h4>Fullstack/Frontend developer!</h4>
 
 Hi! My name is Ignacio and I've been learning programation since Aug 2019. During the quarantine I had the opportunity to focus on development and i've enjoyed it a lot.
 
