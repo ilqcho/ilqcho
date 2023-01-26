@@ -1,4 +1,4 @@
-<h2> Hi! I'm Ignacio García 👋</h2>
+<h2>I'm Ignacio García 👋</h2>
 
 <h4>Full-Stack/Front-End developer!</h4>
 
